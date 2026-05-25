@@ -12,7 +12,15 @@
 ![](https://streak-stats.demolab.com/?user=hamzafiazdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hamzafiazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🚀 Explore My Repositories
+
+<div align="center">
+
+<a href="https://github.com/hamzafiazdev?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 ---
 [![](https://komarev.com/ghpvc/?username=hamzafiazdev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
